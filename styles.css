@@ -1,0 +1,31 @@
+/**********************TAG SELECTORS**********************/
+body {
+  background-color: powderblue;
+}
+
+/**img {
+  width: 100%;
+}**/
+/**********************CLASS SELECTORS**********************/
+.titre {
+  background-color: powderblue;
+}
+
+.chapitre {
+  background-color: powderblue;
+}
+
+.barredemenu {
+  background-color: powderblue;
+}
+
+.fiches {
+  background-color: powderblue;
+}
+
+.imagefiche {
+  background-color: powderblue;
+}
+
+/**********************ID SELECTORS**********************/
+/**********************PSEUDO CLASS SELECTORS**********************/
