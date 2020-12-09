@@ -1,30 +1,52 @@
 /**********************TAG SELECTORS**********************/
 body {
-  background-color: powderblue;
+  background-color: #fcf8ec;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-/**img {
-  width: 100%;
-}**/
+h1 {
+  color: #456268;
+}
+
+h2 {
+  color: #456268;
+}
+
+hr {
+  background-color: #fcf8ec;
+  border-style: none;
+  border-style: dotted none none;
+  width: 10%;
+  height: 10px;
+  border-color: #79a3b1;
+  border-width: 10px;
+  }
+
 /**********************CLASS SELECTORS**********************/
 .titre {
-  background-color: powderblue;
+  background-color: #fcf8ec;
 }
 
 .chapitre {
-  background-color: powderblue;
+  background-color: #fcf8ec;
+  padding-bottom: 20px;
 }
 
 .barredemenu {
-  background-color: powderblue;
+  background-color: #fcf8ec;
 }
 
 .fiches {
-  background-color: powderblue;
+  background-color: #fcf8ec;
 }
 
 .imagefiche {
-  background-color: powderblue;
+  background-color: #d0e8f2;
+}
+.fondfiche {
+  background-color: #fcf8ec;
 }
 
 /**********************ID SELECTORS**********************/
